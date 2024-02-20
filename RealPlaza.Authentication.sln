@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A001FC2A-001B-40A3-9392-B499D2934733}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{C34C9D6F-33F6-4312-A824-875879CA992C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{DF7F3933-D71C-4633-8480-668203CE6530}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{09FDD414-26BA-45D2-AF7E-6EAC468BE91F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPlaza.Authentication.Application", "RealPlaza.Authentication.Application\RealPlaza.Authentication.Application.csproj", "{393A9F8F-ED82-4BA1-B8EB-3F0E226216F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPlaza.Authentication.Domain", "RealPlaza.Authentication.Domain\RealPlaza.Authentication.Domain.csproj", "{D4FD942C-E347-40B8-902D-D3B90AF339D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPlaza.Authentication.Infrastructure", "RealPlaza.Authentication.Infrastructure\RealPlaza.Authentication.Infrastructure.csproj", "{981579E9-5BAE-47A1-B44D-81086ECA8B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPlaza.Authentication.Api", "RealPlaza.Authentication.Api\RealPlaza.Authentication.Api.csproj", "{4CA3AB61-A22C-47C8-83D9-97036DC3F0FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{D97E3C64-04F7-4E74-AE65-57D1325E815C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393A9F8F-ED82-4BA1-B8EB-3F0E226216F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393A9F8F-ED82-4BA1-B8EB-3F0E226216F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393A9F8F-ED82-4BA1-B8EB-3F0E226216F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393A9F8F-ED82-4BA1-B8EB-3F0E226216F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FD942C-E347-40B8-902D-D3B90AF339D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FD942C-E347-40B8-902D-D3B90AF339D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FD942C-E347-40B8-902D-D3B90AF339D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FD942C-E347-40B8-902D-D3B90AF339D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981579E9-5BAE-47A1-B44D-81086ECA8B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981579E9-5BAE-47A1-B44D-81086ECA8B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981579E9-5BAE-47A1-B44D-81086ECA8B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981579E9-5BAE-47A1-B44D-81086ECA8B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA3AB61-A22C-47C8-83D9-97036DC3F0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA3AB61-A22C-47C8-83D9-97036DC3F0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA3AB61-A22C-47C8-83D9-97036DC3F0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA3AB61-A22C-47C8-83D9-97036DC3F0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C34C9D6F-33F6-4312-A824-875879CA992C} = {A001FC2A-001B-40A3-9392-B499D2934733}
+		{DF7F3933-D71C-4633-8480-668203CE6530} = {A001FC2A-001B-40A3-9392-B499D2934733}
+		{09FDD414-26BA-45D2-AF7E-6EAC468BE91F} = {A001FC2A-001B-40A3-9392-B499D2934733}
+		{393A9F8F-ED82-4BA1-B8EB-3F0E226216F1} = {DF7F3933-D71C-4633-8480-668203CE6530}
+		{D4FD942C-E347-40B8-902D-D3B90AF339D3} = {DF7F3933-D71C-4633-8480-668203CE6530}
+		{981579E9-5BAE-47A1-B44D-81086ECA8B15} = {09FDD414-26BA-45D2-AF7E-6EAC468BE91F}
+		{4CA3AB61-A22C-47C8-83D9-97036DC3F0FF} = {C34C9D6F-33F6-4312-A824-875879CA992C}
+		{D97E3C64-04F7-4E74-AE65-57D1325E815C} = {A001FC2A-001B-40A3-9392-B499D2934733}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A9EFAFF-1C1C-49D8-8246-F6A6B6B8AF09}
+	EndGlobalSection
+EndGlobal

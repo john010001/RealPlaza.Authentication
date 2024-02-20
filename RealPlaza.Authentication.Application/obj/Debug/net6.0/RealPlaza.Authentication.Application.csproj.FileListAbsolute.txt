@@ -1,0 +1,15 @@
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\bin\Debug\net6.0\RealPlaza.Authentication.Application.deps.json
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\bin\Debug\net6.0\RealPlaza.Authentication.Application.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\bin\Debug\net6.0\RealPlaza.Authentication.Application.pdb
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\bin\Debug\net6.0\RealPlaza.Authentication.Domain.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\bin\Debug\net6.0\RealPlaza.Authentication.Domain.pdb
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\obj\Debug\net6.0\RealPlaza.Authentication.Application.csproj.AssemblyReference.cache
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\obj\Debug\net6.0\RealPlaza.Authentication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\obj\Debug\net6.0\RealPlaza.Authentication.Application.AssemblyInfoInputs.cache
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\obj\Debug\net6.0\RealPlaza.Authentication.Application.AssemblyInfo.cs
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\obj\Debug\net6.0\RealPlaza.Authentication.Application.csproj.CoreCompileInputs.cache
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\obj\Debug\net6.0\RealPlaza.Authentication.Application.csproj.CopyComplete
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\obj\Debug\net6.0\RealPlaza.Authentication.Application.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\obj\Debug\net6.0\refint\RealPlaza.Authentication.Application.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\obj\Debug\net6.0\RealPlaza.Authentication.Application.pdb
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Application\obj\Debug\net6.0\ref\RealPlaza.Authentication.Application.dll

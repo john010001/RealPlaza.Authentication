@@ -1,0 +1,12 @@
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\bin\Debug\net6.0\RealPlaza.Authentication.Domain.deps.json
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\bin\Debug\net6.0\RealPlaza.Authentication.Domain.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\bin\Debug\net6.0\RealPlaza.Authentication.Domain.pdb
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\obj\Debug\net6.0\RealPlaza.Authentication.Domain.csproj.AssemblyReference.cache
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\obj\Debug\net6.0\RealPlaza.Authentication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\obj\Debug\net6.0\RealPlaza.Authentication.Domain.AssemblyInfoInputs.cache
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\obj\Debug\net6.0\RealPlaza.Authentication.Domain.AssemblyInfo.cs
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\obj\Debug\net6.0\RealPlaza.Authentication.Domain.csproj.CoreCompileInputs.cache
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\obj\Debug\net6.0\RealPlaza.Authentication.Domain.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\obj\Debug\net6.0\refint\RealPlaza.Authentication.Domain.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\obj\Debug\net6.0\RealPlaza.Authentication.Domain.pdb
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Domain\obj\Debug\net6.0\ref\RealPlaza.Authentication.Domain.dll

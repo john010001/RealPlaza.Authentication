@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RealPlaza.Authentication.Api.props" />
+</Project>

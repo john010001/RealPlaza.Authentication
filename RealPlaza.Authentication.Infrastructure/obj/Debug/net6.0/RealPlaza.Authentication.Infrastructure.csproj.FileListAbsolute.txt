@@ -1,0 +1,17 @@
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\bin\Debug\net6.0\RealPlaza.Authentication.Infrastructure.deps.json
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\bin\Debug\net6.0\RealPlaza.Authentication.Infrastructure.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\bin\Debug\net6.0\RealPlaza.Authentication.Infrastructure.pdb
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\bin\Debug\net6.0\RealPlaza.Authentication.Application.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\bin\Debug\net6.0\RealPlaza.Authentication.Domain.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\bin\Debug\net6.0\RealPlaza.Authentication.Application.pdb
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\bin\Debug\net6.0\RealPlaza.Authentication.Domain.pdb
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\obj\Debug\net6.0\RealPlaza.Authentication.Infrastructure.csproj.AssemblyReference.cache
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\obj\Debug\net6.0\RealPlaza.Authentication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\obj\Debug\net6.0\RealPlaza.Authentication.Infrastructure.AssemblyInfoInputs.cache
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\obj\Debug\net6.0\RealPlaza.Authentication.Infrastructure.AssemblyInfo.cs
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\obj\Debug\net6.0\RealPlaza.Authentication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\obj\Debug\net6.0\RealPlaza.Authentication.Infrastructure.csproj.CopyComplete
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\obj\Debug\net6.0\RealPlaza.Authentication.Infrastructure.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\obj\Debug\net6.0\refint\RealPlaza.Authentication.Infrastructure.dll
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\obj\Debug\net6.0\RealPlaza.Authentication.Infrastructure.pdb
+C:\RealPlaza\RealPlaza.Authentication\RealPlaza.Authentication.Infrastructure\obj\Debug\net6.0\ref\RealPlaza.Authentication.Infrastructure.dll

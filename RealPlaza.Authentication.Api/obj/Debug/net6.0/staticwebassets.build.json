@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yJXe5QOLMuSh1ouxGsjIZdJJ1ioQrRZGdJOXbiS4piI=",
+  "Source": "RealPlaza.Authentication.Api",
+  "BasePath": "_content/RealPlaza.Authentication.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
